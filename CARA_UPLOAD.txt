@@ -1,0 +1,9 @@
+CARA UPLOAD WEBSITE LITTLE THINGS ABOUT US (REVISI TERBARU)
+
+1. Ekstrak ZIP ini di HP/komputer terlebih dahulu.
+2. Upload semua isi folder hasil ekstrak ke repository GitHub baru (bukan ZIP sebagai satu file).
+3. Pastikan index.html dan semua foto/video berada di root repository yang sama.
+4. Aktifkan Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Tunggu beberapa menit lalu buka URL GitHub Pages repository tersebut.
+
+Revisi: foto awal 1000268962 tidak dicrop; Gallery memakai 1000270111; foto People Kasa memakai 1000269592; empat video disesuaikan dengan judul yang diminta.
